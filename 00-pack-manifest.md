@@ -68,7 +68,7 @@ name_status: provisional
 | Methods | 1 | draft |
 | Work Products | 0 | — |
 | Failure Modes | 4 | draft |
-| SoTA Annotations | 1 (первоисточники Паронджанова) | draft |
+| SoTA Annotations | 2 (первоисточники Паронджанова + разбор сценариев применения) | draft |
 | Maps | 1 | draft |
 
 ---
@@ -96,3 +96,4 @@ name_status: provisional
 | Date | Change | Author |
 |------|--------|--------|
 | 2026-07-31 | Initial creation. Перенос уже собранного пилотом материала (`DS-strategy/inbox/WP-7/drakon-knowledge-base.md`, 2026-07-27) в структуру Пака - без нового исследования, только структурирование | агент + пилот |
+| 2026-08-01 | Прямое чтение первоисточника (главы 1 и 13, `parondzhanov_v.d....pdf`) вместо вторичного пересказа - разбор сценариев применения, смоделированных под РП22, РП24, РП5, РП6, РП27/28, JLE, DFM, РП17 | агент, по поручению пилота |
