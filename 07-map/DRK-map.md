@@ -13,6 +13,7 @@
 | Как перевести метод в схему | `03-methods/DRK.M.001.md` |
 | Что может пойти не так | `05-failure-modes/` |
 | Первоисточники | `06-sota/parondzhanov-primary-sources.md` |
+| Сценарии применения по нашим РП/Пакам | `06-sota/application-scenarios-parondzhanov.md` |
 | История переноса из РП7 | `DS-strategy/inbox/WP-7/drakon-knowledge-base.md` (исходный материал, не дублировать содержание обратно) |
 
 ---
